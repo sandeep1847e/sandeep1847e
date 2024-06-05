@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandeep1847e
+- 👋 Hi, I’m @sandeep_sharma
 - 👀 I’m interested in webpage development
 - 🌱 I’m currently learning neural networks
 - 📫 How to reach me at(sandeeps23@iitk.ac.in)
