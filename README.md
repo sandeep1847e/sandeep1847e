@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @sandeep_sharma
-- 👀 I’m interested in webpage development
-- 🌱 I’m currently learning neural networks
-- 📫 How to reach me at(sandeeps23@iitk.ac.in)
-
-<!---
-sandeep1847e/sandeep1847e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms1ZGhkaDJpNTFhenlubXczNDNlejc4aDJxaGIxcWkxc210ZjZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
