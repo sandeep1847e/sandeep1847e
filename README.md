@@ -3,7 +3,6 @@
 </div>
 
 <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=sandeep1847e&style=flat-square&color=blue" alt=""/>
 
   <a href="www.linkedin.com/in/sandeep-sharma-01a7b0220">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,4 +10,6 @@
   <a href="https://youtube.com/@sandeepsharma-1464?si=pUjMgk604fRpgGfR">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+ <img src="https://komarev.com/ghpvc/?username=sandeep1847e&style=flat-square&color=blue" alt=""/>
+
 </div>
