@@ -26,6 +26,6 @@
 </div>
 
 ### :fire: My Stats 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sandeep1847e&theme=dark&border_radius=10&background=45%2CEB5454%2CEB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sandeep1847e&theme=dark&border_radius=10&background=45%2C000000%2CEB5E20)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep1847e&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
